@@ -1,0 +1,6 @@
+@CityTemperatureApi_HostAddress = http://localhost:5045
+
+GET {{CityTemperatureApi_HostAddress}}/TemperatureController/
+Accept: application/json
+
+###
